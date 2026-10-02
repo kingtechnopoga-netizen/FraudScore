@@ -2,3 +2,4 @@ Flask>=3.0,<4
 requests>=2.31
 dnspython>=2.4
 PySocks>=1.7
+gunicorn>=22,<24
